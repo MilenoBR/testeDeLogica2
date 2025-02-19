@@ -33,3 +33,6 @@ Ao final deve se exibir uma mensagem:
 Bons estudos 😉
 
 -----------------------------------------------
+
+
+![image](https://github.com/user-attachments/assets/3c8f4e14-6180-4cf3-a56b-9dca620078b6)
